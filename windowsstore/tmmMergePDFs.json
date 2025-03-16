@@ -1,0 +1,13 @@
+{
+    "latest_version": "1.0.1.0",
+    "download_url": "https://apps.microsoft.com/detail/9P8R86Z7WVSR",
+    "ms_windows_store": "ms-windows-store://pdp/?ProductId=9P8R86Z7WVSR&mode=update",
+    "description" : {
+        "ja-JP" : "複数の PDF を 1 つのファイルに結合するためのシンプルで高速な PDF 結合ツール（マージツール）です。",
+        "default" : ""
+    },
+    "release_notes": {
+        "ja-JP"   : "入力ファイルがPDFでなくてもリストボックスに追加できてしまうバグなどを修正しました。",
+        "default" : "Fixed a bug where input files could be added to the list box even if they were not PDF files."
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "latest_version": "1.0.1.0",
+    "download_url": "https://apps.microsoft.com/detail/9NFNWD7CTW87",
+    "ms_windows_store": "ms-windows-store://pdp/?productid=9NFNWD7CTW87&mode=update",
+    "description": {
+        "ja-JP": "複数の PDF を 1 つのファイルに結合するためのシンプルで高速な PDF 結合ツール（マージツール）です。",
+        "default": "Split a PDF file into pages and save them under numbered file names.\\nSplit PDF pages and automatically detect and save blank pages in a separate folder.\\nYou can also convert the PDF to an image and save it."
+    },
+    "release_notes": {
+        "ja-JP": "入力ファイルがPDFでなくてもリストボックスに追加できてしまうバグなどを修正しました。",
+        "default": "Fixed a bug where input files could be added to the list box even if they were not PDF files."
+    }
+}
